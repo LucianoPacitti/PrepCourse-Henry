@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio de prueba de mod. 2 de Henry
+Pacitti Luciano
+
+Este proyecto es una prueba de como crear un repo y clonarlo desde github a mi escritorio local.
